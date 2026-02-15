@@ -31,10 +31,10 @@ jobs:
         if: steps.check-contributions.outputs.has_contributions == 'true'
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: dvlcbm-OnIG
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=blue
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=red
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
                 
       # Push the generated files to the repository only if there were contributions
       - name: Push changes
