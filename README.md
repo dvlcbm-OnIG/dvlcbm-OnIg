@@ -14,6 +14,5 @@ Self-taught web developer and BSIT student with hands-on experience building pra
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dvlcbm-OnIG&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+# Contributions
 ![Snake animation](https://github.com/dvlcbm-OnIG/dvlcbm-OnIG/blob/main/dist/github-contribution-grid-snake-dark.svg)
