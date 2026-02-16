@@ -1,4 +1,4 @@
-#👋 Hey, I’m Russel
+# 👋 Hey, I’m Russel
 
 Frontend developer (for now 👀) who enjoys breaking things just to understand how they work.
 Currently building with HTML, CSS, JavaScript, and sharpening my logic with C++ & C#.
