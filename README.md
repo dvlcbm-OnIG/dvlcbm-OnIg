@@ -7,7 +7,9 @@ Currently building with HTML, CSS, JavaScript, and sharpening my logic with C++ 
 Deep diving into advanced JavaScript and modern web design — because clean UI is cool, but clean logic is cooler.
 
  I enjoy debugging more than I probably should.
+ 
  Freelancing while grinding through college.
+ 
 Future cybersecurity or software engineer in the making.
 
 Traits: Logical. Curious. Dedicated.
