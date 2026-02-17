@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Russel
+# Hello World👋!, I’m Russel
 
 Frontend developer (for now 👀) who enjoys breaking things just to understand how they work.
 
