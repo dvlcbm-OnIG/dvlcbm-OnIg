@@ -8,6 +8,20 @@ I’m a first year IT student who enjoys building things and breaking them just 
     <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,git,github,dotnet,vscode,visualstudio,linux,ubuntu&perline=12" />
   </a>
 </p>
+
+# 📱 Socials:
+<a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/dvlcbm?igsh=aDh3NzlzYzFxcjF2" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@certifiedloverb0y222?_r=1&_t=ZS-94H59nNgcJU" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
