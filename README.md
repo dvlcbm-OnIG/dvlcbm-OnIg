@@ -1,4 +1,8 @@
-# Hello, World👋! I’m Russel
+# Hello, World👋! I’m Russel  <p align="center">
+  <a href="https://visitorbadge.io/status?path=dvlcbm-OnIG">
+    <img src="https://api.visitorbadge.io/api/visitors?path=johnbhd&label=viewer&labelColor=%23697689&countColor=%23d9e3f0"/>
+  </a>
+</p>
 
 I’m a first year IT student who enjoys building things and breaking them just to understand how they work. I focus on frontend development using HTML, CSS, and JavaScript, while strengthening my problem solving skills with C, C++, C#, and Python. I use Git and .NET in my projects and genuinely enjoy debugging because every bug feels like solving a puzzle. Still learning, still building, and improving every day.
 
@@ -8,8 +12,7 @@ I’m a first year IT student who enjoys building things and breaking them just 
     <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,git,github,dotnet,vscode,visualstudio,linux,ubuntu&perline=12" />
   </a>
 </p>
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdvlcbm-OnIG&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdvlcbm-OnIG)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdvlcbm-OnIG&label=Visitors&countColor=%23263759)
+
 # 📱 Socials:
 <a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
