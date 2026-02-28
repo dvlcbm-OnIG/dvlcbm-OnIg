@@ -8,7 +8,7 @@ I’m a first year IT student who enjoys building things and breaking them just 
     <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,git,github,dotnet,vscode,visualstudio,linux,ubuntu&perline=12" />
   </a>
 </p>
-
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdvlcbm-OnIG&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdvlcbm-OnIG)
 # 📱 Socials:
 <a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
