@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I’m a first year IT student who enjoys building things and breaking them just to understand how they work. I focus on frontend development using HTML, CSS, and JavaScript, while strengthening my problem solving skills with C, C++, C#, and Python. I use Git and .NET in my projects and genuinely enjoy debugging because every bug feels like solving a puzzle. Still learning, still building, and improving every day.
+I’m a first year IT student who enjoys building things and breaking them just to understand how they work. I focus on frontend development using HTML, CSS, and JavaScript, while strengthening my problem solving skills with C++ and Python.
 
 # 💻 Tech Stack:
    <p>
